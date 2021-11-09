@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/water-bathtub/static/css/main.59d8ff56.chunk.css",
+    "main.js": "/water-bathtub/static/js/main.e108c79e.chunk.js",
+    "main.js.map": "/water-bathtub/static/js/main.e108c79e.chunk.js.map",
+    "runtime-main.js": "/water-bathtub/static/js/runtime-main.b0e10d74.js",
+    "runtime-main.js.map": "/water-bathtub/static/js/runtime-main.b0e10d74.js.map",
+    "static/js/2.4ee241c6.chunk.js": "/water-bathtub/static/js/2.4ee241c6.chunk.js",
+    "static/js/2.4ee241c6.chunk.js.map": "/water-bathtub/static/js/2.4ee241c6.chunk.js.map",
+    "static/js/3.a14a2414.chunk.js": "/water-bathtub/static/js/3.a14a2414.chunk.js",
+    "static/js/3.a14a2414.chunk.js.map": "/water-bathtub/static/js/3.a14a2414.chunk.js.map",
+    "index.html": "/water-bathtub/index.html",
+    "static/css/main.59d8ff56.chunk.css.map": "/water-bathtub/static/css/main.59d8ff56.chunk.css.map",
+    "static/js/2.4ee241c6.chunk.js.LICENSE.txt": "/water-bathtub/static/js/2.4ee241c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0e10d74.js",
+    "static/js/2.4ee241c6.chunk.js",
+    "static/css/main.59d8ff56.chunk.css",
+    "static/js/main.e108c79e.chunk.js"
+  ]
+}
